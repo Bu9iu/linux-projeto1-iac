@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## Instalador para o Oracle Linux 8 
+
 echo "Atualizando o Servidor..."
 yum update
 yum upgrade -y
